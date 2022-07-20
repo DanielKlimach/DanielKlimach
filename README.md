@@ -3,11 +3,11 @@
 
 - 💡 Objetivo: **Em busca de um engajamento profissional**
 
-- 🌱 Estou me aperfeiçoando em **Front-End**
+- 🌱 Estou me aperfeiçoando em **Front-End e Back-End**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/DanielKlimach?tab=repositories](https://github.com/DanielKlimach?tab=repositories)
 
-- 💬 Sobre mim: **Extrovertido, Impulsivo, Comunicativo, Persistente**
+- 💬 Sobre mim: **Extrovertido, comunicativo, senso de humor ácido, pontual**
 
 - 📫 Email: **daniel.klimach.cat@gmail.com**
 
