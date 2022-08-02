@@ -11,6 +11,10 @@
 
 - 📫 Email: **daniel.klimach.cat@gmail.com**
 
+- 💻 Meu site de demonstração rápida: https://danielklimach.000webhostapp.com/
+
+- 📘 Curso: TADS 4°Sementre - Univesidade UniProjeção
+
 <h3 align="left">Meus Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel klimach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel klimach" height="30" width="40" /></a>
