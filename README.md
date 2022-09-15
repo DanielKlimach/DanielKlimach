@@ -15,6 +15,8 @@
 
 - 📘 Curso: TADS 4°Sementre - Univesidade UniProjeção
 
+- 📑 Currículo PDF: https://drive.google.com/file/d/1u3vOG7I-Meu2J60yCT-34_z9NECYH9Vl/view?usp=sharing
+
 <h3 align="left">Meus Contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel klimach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel klimach" height="30" width="40" /></a>
