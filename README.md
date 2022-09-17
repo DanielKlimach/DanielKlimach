@@ -11,7 +11,7 @@
 
 - 📫 Email: **daniel.klimach.cat@gmail.com**
 
-- 💻 Meu site de demonstração rápida: https://danielklimach.000webhostapp.com/
+- 💻 Meu site de demonstração rápida: https://easybikes.000webhostapp.com/
 
 - 📘 Curso: TADS 4°Sementre - Univesidade UniProjeção
 
