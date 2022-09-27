@@ -13,7 +13,7 @@
 
 - 📘 Curso: TADS 4°Sementre - Univesidade UniProjeção
 
-- 📑 Currículo PDF: https://drive.google.com/file/d/1u3vOG7I-Meu2J60yCT-34_z9NECYH9Vl/view?usp=sharing
+- 📑 Currículo PDF: https://drive.google.com/file/d/1cbWAm3zQnpBDMhxj2XttFdu6oTkaqRi9/view?usp=sharing
 
 <h3 align="left">Meus Contatos:</h3>
 <p align="left">
