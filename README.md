@@ -5,6 +5,8 @@
 
 - 🌱 Estou me aperfeiçoando em **Front-End e Back-End**
 
+- :deciduous_tree: Experiência: **Estágio de full-stack no BRB**
+
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/DanielKlimach?tab=repositories](https://github.com/DanielKlimach?tab=repositories)
 
 - 💬 Sobre mim: **Extrovertido e comunicativo**
@@ -13,7 +15,7 @@
 
 - 📫 Email: **daniel.klimach.cat@gmail.com**
 
-- 📘 Curso: TADS 4°Sementre - Univesidade UniProjeção
+- 📘 Curso: TADS 5°Sementre - Univesidade UniProjeção
 
 - 📑 Currículo PDF: https://drive.google.com/file/d/1cbWAm3zQnpBDMhxj2XttFdu6oTkaqRi9/view?usp=sharing
 
