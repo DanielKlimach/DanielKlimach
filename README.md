@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/DanielKlimach?tab=repositories](https://github.com/DanielKlimach?tab=repositories)
 
-- 💬 Sobre mim: **Extrovertido, comunicativo, senso de humor ácido, pontual**
+- 💬 Sobre mim: **Extrovertido e comunicativo**
 
 - :computer: Link do meu site demonstrativo: https://easybikes.000webhostapp.com/
 
