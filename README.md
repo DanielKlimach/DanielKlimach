@@ -11,8 +11,6 @@
 
 - 💬 Sobre mim: **Extrovertido e comunicativo**
 
-- :computer: Link do meu site demonstrativo: https://easybikes.000webhostapp.com/
-
 - 📫 Email: **daniel.klimach.cat@gmail.com**
 
 - 📘 Curso: TADS 5°Sementre - Univesidade UniProjeção
